@@ -1,0 +1,13 @@
+*.py[cdo]
+
+# Python artifacts
+__pycache__
+
+# Editor detritus
+*.vim
+*.sw*
+tags
+.idea
+.vscode
+
+.DS_Store
