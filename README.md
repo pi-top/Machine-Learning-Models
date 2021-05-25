@@ -1,2 +1,3 @@
 # pi-top-SDK-models
-Repository to store large model files that shouldn't be baked into the SDK
+
+This repository contains custom (pi-top) model files that are too large to be included in the [pi-top Python SDK](https://github.com/pi-top/pi-top-Python-SDK)
