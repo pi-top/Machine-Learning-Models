@@ -1,3 +1,9 @@
-# pi-top-SDK-models
+# pi-top's Machine Learning Models
 
-This repository contains custom (pi-top) model files that are too large to be included in the [pi-top Python SDK](https://github.com/pi-top/pi-top-Python-SDK)
+[Open Neural Network Exchange (ONNX)](http://onnx.ai) is an open standard format for representing machine learning models. ONNX is supported by a community of partners who have implemented it in many frameworks and tools.
+
+This repository is a collection of pre-trained models in the ONNX format.
+
+<!-- We have standardized on [Git LFS (Large File Storage)](https://git-lfs.github.com/) to store ONNX model files. To download an ONNX model, navigate to the appropriate Github page and click the `Download` button on the top right.
+
+TODO: add information about how these models were made, what they represent and to use them. Discuss the SDK. -->
